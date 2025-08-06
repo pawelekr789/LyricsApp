@@ -24,4 +24,3 @@ Cechy aplikacji:
 - Przycisk „Dodaj do ulubionych”.
 - Nawigacja między ekranami
 - Użycie Navigation Component (lub Compose Navigation).
-- Ekrany: Szukaj | Wynik | Ulubione.
