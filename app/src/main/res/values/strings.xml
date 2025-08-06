@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">applyricsPR</string>
+    <string name="author">Autor: Pawel Roszak, 156099</string>
+    <string name="screen_title">Wyszukiwarka napisów</string>
+    <string name="artist_label">Wykonawca</string>
+    <string name="title_label">Tytul</string>
+    <string name="search_button">Wyszukaj</string>
+    <string name="lyrics_not_found">Nie znaleziono tekstu.</string>
+    <string name="error_prefix">Blad:</string>
+    <string name="exception_prefix">Wyjatek:</string>
+    <string name="save_to_fav">Zapisz do ulubionych</string>
+    <string name="saved_fav">Zapisane ulubione</string>
+    <string name="no_saved_fav">Brak zapisanych ulubionych</string>
+    <string name="clear_fav">Wyczyść ulubione</string>
+    <string name="search_his">Historia wyszukań</string>
+    <string name="no_search_his">Brak Historiis wyszukań</string>
+</resources>
